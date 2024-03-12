@@ -14,7 +14,7 @@ console.log(" character at index  11 is:", charAt11);
 
 var sentence = "when you join meetings, webinars, chats or channels is hosted on zoom, your pc"
 var totalChars = sentence.length;
-console.log(" ltotalchar is:", totalChars);
+console.log("totalChars is:", totalChars);
 var lastChar = sentence.charAt(totalChars-1);
 console.log(" last char is:", lastChar);
 
